@@ -6,7 +6,7 @@
 4. Configure a continuous deployment pipeline for a Jenkins job.
 ## Repository:   
 [https://github.com/zubxxr/SOFE3980U-Lab3-Part2](https://github.com/zubxxr/SOFE3980U-Lab3-Part2) 
-
+stinky
 ## Introduction and Getting Started 
 1. Watch the following video about [Dev-ops](https://www.youtube.com/watch?v=LFDrDnKPOTg). 
 2. Install Jenkins Server on GCP, using Helm. Helm is a tool that creates customized applications within Kubernetes.
